@@ -1,0 +1,24 @@
+{
+  "words": [
+    {
+      "word": "dog",
+      "description": "Animals-best friend of people"
+    },
+    {
+      "word": "bulgaria",
+      "description": "Countries-where the flag is with white,green and red colors"
+    },
+    {
+      "word": "avocado",
+      "description": "Fruits- a tropical fruit with thick, dark green or purple skin, a large, round seed"
+    },
+    {
+      "word": "brocoli",
+      "description": "Vegetable-is a large hardy, green cauliflower."
+    },
+    {
+      "word": "python",
+      "description": "Programming Languages- the file is formating with .py"
+    }
+  ]
+}
